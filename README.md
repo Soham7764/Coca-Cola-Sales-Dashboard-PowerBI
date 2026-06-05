@@ -35,5 +35,5 @@ Project Files
 
 Author
 
-Soham Padval
+Soham Padwal
 Aspiring Data Analyst
