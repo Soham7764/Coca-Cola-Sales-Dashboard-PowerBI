@@ -1,8 +1,8 @@
-Coca-Cola Sales Dashboard
+Hindustan Coca-Cala Beverage 2025 Sales Dashboard
 
 Overview
 
-This Power BI dashboard analyzes Coca-Cola sales performance across different brands, states, and sales channels.
+This Power BI dashboard analyzes HCCB sales performance across different brands, states, and sales channels.
 
 Tools Used
 
